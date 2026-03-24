@@ -5,3 +5,9 @@ Languages: Python, SQL, Kotlin (Jetpack Compose)
 AI/ML: Scikit-Learn, TensorFlow, PyTorch, OpenCV, MediaPipe
 Cloud: Google Cloud Platform (Generative AI Certified)
 Data Science: Pandas, NumPy, Matplotlib, Jupyter Notebooks
+
+___________________________________________
+## 📫 Connect with me:
+* 📍 **Location:** Mangalore, Karnataka / Kerala, India
+* 📧 **Email:** [dhyanbal85@gmail.com](mailto:dhyanbal85@gmail.com)
+* 💼 **LinkedIn:** [Dhyanbal L P](https://www.linkedin.com/in/dhyanbal-l-p-628446279)
