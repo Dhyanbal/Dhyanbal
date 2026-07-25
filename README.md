@@ -1,15 +1,20 @@
 # Hi there, I'm Dhyanbal L P 👋
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/dhyanbal-l-p-628446279"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dhyanbal-l-p"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:dhyanbal85@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ## 💫 About Me:
-👋 Hey there! I'm an AI/ML enthusiast turning curiosity into code.
-💻 Building projects that learn, adapt, and solve real-world problems.
-🌱 AI&ML Fresher.
-🚀 Growing one model at a time—join the journey!
+
+👋 Hi, I'm **Dhyanbal L P**, a B.E. graduate in **Artificial Intelligence & Machine Learning** with a passion for building intelligent and practical software solutions.
+
+💻 I enjoy working with **Python, Machine Learning, Kotlin, Android Studio, Firebase, and SQL**, and I'm always exploring new technologies to expand my skills.
+
+🚀 I'm actively seeking opportunities as an **AI/ML Engineer** or **Software Developer**, where I can contribute, learn, and grow while building impactful applications.
+
+🌱 *Always learning, always building, one project at a time.*
+
 
 ---
 
@@ -61,6 +66,6 @@
 
 ## 📫 Let's Connect:
 * 📍 **Location:** Mangalore, Karnataka / Kozhikode, Kerala
-* 💼 **LinkedIn:** [Dhyanbal L P](https://www.linkedin.com/in/dhyanbal-l-p-628446279)
+* 💼 **LinkedIn:** [Dhyanbal L P](https://www.linkedin.com/in/dhyanbal-l-p)
 * 📧 **Email:** [dhyanbal85@gmail.com](mailto:dhyanbal85@gmail.com)
 *
