@@ -1,71 +1,128 @@
-# Hi there, I'm Dhyanbal L P 👋
+<h1 align="center">Hi 👋, I'm Dhyanbal L P</h1>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/dhyanbal-l-p"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:dhyanbal85@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<h3 align="center">AI & Machine Learning Graduate | Python Developer | Android Developer</h3>
 
-## 💫 About Me:
-
-👋 Hi, I'm **Dhyanbal L P**, a B.E. graduate in **Artificial Intelligence & Machine Learning** with a passion for building intelligent and practical software solutions.
-
-💻 I enjoy working with **Python, Machine Learning, Kotlin, Android Studio, Firebase, and SQL**, and I'm always exploring new technologies to expand my skills.
-
-🚀 I'm actively seeking opportunities as an **AI/ML Engineer** or **Software Developer**, where I can contribute, learn, and grow while building impactful applications.
-
-🌱 *Always learning, always building, one project at a time.*
-
-
----
-
-## 💻 Tech Stack:
-
-### 🧠 Machine Learning & AI
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 📊 Data Science
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-### 🛠 Tools & Languages
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
----
-
-## 🔝 Top Projects:
-
-### 🌱 [Plant Disease Classification](https://github.com/Dhyanbal/Plant-Disease-Classification)
-* **Goal:** High-accuracy disease detection in crops via leaf image analysis.
-* **Impact:** Aiding precision agriculture with CNN-based Deep Learning.
-
-### 📄 [Automated Resume Screening](https://github.com/Dhyanbal/Automated-Resume-Screening-Using-Machine-Learning)
-* **Goal:** Efficiently categorizing job applications using NLP.
-* **Impact:** Automating the recruitment pipeline for HR teams.
-
-### 🖐️ [Hand Gesture Identifier](https://github.com/Dhyanbal/cv-project)
-* **Goal:** Real-time gesture recognition for seamless HCI.
-* **Tech:** OpenCV & MediaPipe integration.
-
----
-
-## 📈 My GitHub Stats:
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dhyanbal&show_icons=true&theme=dracula&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhyanbal&layout=compact&theme=dracula&hide_border=true" />
+Passionate about building intelligent applications using AI, Machine Learning, and Android Development.
+</p>
+
+<p align="center">
+  <a href="mailto:dhyanbal85@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dhyanbal-l-p">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/Dhyanbal">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
 
-## 📫 Let's Connect:
-* 📍 **Location:** Mangalore, Karnataka / Kozhikode, Kerala
-* 💼 **LinkedIn:** [Dhyanbal L P](https://www.linkedin.com/in/dhyanbal-l-p)
-* 📧 **Email:** [dhyanbal85@gmail.com](mailto:dhyanbal85@gmail.com)
-*
+## 👨‍💻 About Me
+
+- 🎓 B.E. in Artificial Intelligence & Machine Learning
+- 💻 Passionate about AI, Machine Learning, Python, and Android Development
+- 📱 Building Android applications using Kotlin & Jetpack Compose
+- 🌱 Currently learning Deep Learning and Generative AI
+- 🤝 Open to collaborating on AI/ML and Android projects
+- 🎯 Looking for opportunities as an **AI/ML Engineer**, **Python Developer**, or **Android Developer**
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,kotlin,java,mysql" />
+</p>
+
+### AI & ML
+- Python
+- Machine Learning
+- Deep Learning
+- TensorFlow
+- Scikit-learn
+- Pandas
+- NumPy
+- OpenCV
+
+### Android
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,firebase,kotlin" />
+</p>
+
+- Jetpack Compose
+- Firebase
+- Room Database
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,anaconda" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 🐟 Hybrid Fish Disease Identification
+AI-powered fish disease detection using image analysis and water quality parameters.
+
+**Tech:** Python • TensorFlow • ResNet50 • Random Forest • OpenCV
+
+---
+
+### 📚 Nimma Guru – Community Mentorship Platform
+Android application connecting mentors and students for knowledge sharing.
+
+**Tech:** Kotlin • Jetpack Compose • Firebase • Room Database
+
+---
+
+## 💼 Skills
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Python
+- Kotlin
+- Android Development
+- Firebase
+- SQL
+- TensorFlow
+- Git & GitHub
+- Problem Solving
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhyanbal&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhyanbal&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dhyanbal&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+📧 **Email:** dhyanbal85@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/dhyanbal-l-p
+
+🐙 **GitHub:** https://github.com/Dhyanbal
+
+---
+
+<div align="center">
+
+### 💡 *"Turning ideas into intelligent solutions through AI and code."*
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
+</div>
