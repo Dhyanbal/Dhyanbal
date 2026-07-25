@@ -8,7 +8,7 @@
 ## 💫 About Me:
 👋 Hey there! I'm an AI/ML enthusiast turning curiosity into code.
 💻 Building projects that learn, adapt, and solve real-world problems.
-🌱 8th Semester Engineering Student & AI/ML Intern.
+🌱 AI&ML Fresher.
 🚀 Growing one model at a time—join the journey!
 
 ---
